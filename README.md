@@ -1,7 +1,7 @@
--Descripción:Crea una clase Telefono con atributos marca y model y el metodo llamar. Una interficie Camera con metodo fotografiar y otra interficie Reloj con metodo alarma.Crear otra clase llamada Smartphone que sea subclase de Telefono y a la vez implemente las interficies.Des del Main crear un objeto Smartphone y llamar a los métodos anteriores.
--Tecnologias usadas: Java,Git,Intellij Idea
--Requisitos:Tener instalado Java;Git
--Instalación:clonar el repositorio,acceder al directorio del proyecto 
--Ejecución:ejecutar el programa
--Despliegue:
--Contribuciones:
+Description: Create a Phone class with brand and model attributes and a call method. Create a Camera interface with a photograph method and a Clock interface with an alarm method. Create another class called Smartphone that is a subclass of Phone and also implements the interfaces. From the Main method, create a Smartphone object and call the methods described above.
+- Technologies used: Java, Git, IntelliJ IDEA
+- Requirements: Java and Git must be installed
+- Installation: Clone the repository, access the project directory
+- Execution: Run the program
+- Deployment:
+- Contributions:
